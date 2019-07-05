@@ -16,5 +16,5 @@ def nyc_pigeon_organizer(data)
       pigeon_hash[nombre][attribute]
       
       items.each do |feature, array|
-        array.each do 
+        array.each do |name|
 end
