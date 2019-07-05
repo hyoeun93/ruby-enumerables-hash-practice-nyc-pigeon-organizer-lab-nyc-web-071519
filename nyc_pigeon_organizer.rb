@@ -11,5 +11,5 @@ def nyc_pigeon_organizer(data)
   end 
   
   names.each do |nombre|
-    pigeon_hash[nombre] = 
+    pigeon_hash[nombre] = Hash.new 
 end
