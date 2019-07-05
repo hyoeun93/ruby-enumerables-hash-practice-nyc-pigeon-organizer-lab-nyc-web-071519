@@ -4,5 +4,6 @@ def nyc_pigeon_organizer(data)
   
   data.each do |attributes, items|
     items.each do |feature, array|
-      
+      array.each do |names|
+        
 end
